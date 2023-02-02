@@ -1,10 +1,9 @@
-body{
-    margin:10%;
+.v-toolbar a{
+    margin: 0 20px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.menu{
-    margin:2%;
-    display: flex;
-}
-.menu button{
-    margin-bottom: 2%;
+.v-toolbar .v-toolbar-title{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
