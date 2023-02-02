@@ -1,0 +1,10 @@
+body{
+    margin:10%;
+}
+.menu{
+    margin:2%;
+    display: flex;
+}
+.menu button{
+    margin-bottom: 2%;
+}
