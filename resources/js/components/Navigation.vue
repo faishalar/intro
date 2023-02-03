@@ -1,9 +1,11 @@
 <template>
-    <v-toolbar elevation="8" color="#003333" density="compact" flat>
-        <v-toolbar-title>CODING BAHAGIA</v-toolbar-title>
-        <v-toolbar color="#003333" density="compact" flat>
-            <a href="http://" style="color:white">Home</a>
-            <a href="http://" style="color:white">About</a>
-        </v-toolbar>
+    <v-toolbar color="#E7E5E4" flat class="d-flex justify-content">
+        <v-container>
+            <v-toolbar-title>CODING BAHAGIA</v-toolbar-title>
+        </v-container>
+        <v-container class="d-flex justify-center">
+            <a href="http://" style="color:#57534E">Home</a>
+            <a href="http://" style="color:#57534E">About</a>
+        </v-container>
     </v-toolbar>
 </template>
