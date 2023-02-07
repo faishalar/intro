@@ -1,5 +1,6 @@
 <template>
     <footer>
-        <p>&copy; 2022 - Coba laravel</p>
+        <hr class="mt-3">
+        <p style="text-align:center;" class="mt-2">&copy; 2022 - Mohammad Faishal Amri</p>
     </footer>
 </template>
