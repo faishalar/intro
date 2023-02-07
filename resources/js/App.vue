@@ -1,6 +1,7 @@
 <template>
     <Navigation/>        
     <Depan/>
+    <Footer/>
 </template>
 
 <script>
