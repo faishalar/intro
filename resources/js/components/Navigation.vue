@@ -1,7 +1,7 @@
 <template>
     <v-toolbar color="white" flat>
         <v-container style="max-width:19%;">
-            <v-toolbar-title>HELLO WORLD</v-toolbar-title>
+            <v-toolbar-title style="text-align:center; text-decoration:none;"><a href="http://" style="color:#57534E">HELLO WORLD</a></v-toolbar-title>
         </v-container>
         <v-container class="d-flex justify-center">
             <a href="http://" style="color:#57534E">Home</a>
