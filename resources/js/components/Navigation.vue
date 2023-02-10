@@ -3,7 +3,7 @@
         <v-container style="max-width:19%;">
             <v-toolbar-title style="text-align:center; text-decoration:none;"><a href="http://" style="color:#57534E">HELLO WORLD</a></v-toolbar-title>
         </v-container>
-        <v-container class="d-flex justify-center">
+        <v-container class="d-flex justify-start ml-10 pl-7">
             <a href="http://" style="color:#57534E">Home</a>
             <a href="http://" style="color:#57534E">Pengalaman</a>
             <a href="http://" style="color:#57534E">Tentang Saya</a>
