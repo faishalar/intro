@@ -10,8 +10,10 @@
                 </v-container>
             </v-col>
             <v-col>
-                <v-container fluid class="pa-0 ma-0">
-                    <v-img :src="'../storage/img/profil.jpg'" :aspect-ratio="1" max-height="500"></v-img>
+                <v-container fluid class="pl-15">
+                    <v-avatar size="400">
+                        <v-img :src="'../storage/img/profil.jpg'" :aspect-ratio="1" cover></v-img>
+                    </v-avatar>
                 </v-container>
             </v-col>
         </v-row>
