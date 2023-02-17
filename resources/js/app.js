@@ -13,6 +13,11 @@ import { createVuetify } from 'vuetify'
 import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 
+//vue-motion
+import { MotionPlugin } from '@vueuse/motion'
+
+//mdi
+import '@mdi/font/css/materialdesignicons.css'
 
 
 const routes=[
@@ -40,5 +45,6 @@ const vuetify = createVuetify({
   directives,
 })
 const app =createApp(App);
+app.use(MotionPlugin)
 app.use(router);
 app.use(vuetify).mount('#app');
