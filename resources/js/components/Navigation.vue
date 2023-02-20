@@ -10,3 +10,15 @@
         </v-container>
     </v-toolbar>
 </template>
+
+<style scoped>
+.v-container a{
+    margin: 0 20px;
+    text-decoration: none;
+    font-family: Garamond;
+}
+
+.v-container a:hover{
+    text-shadow: 2px 2px 20px #b0bec5;
+}
+</style>
