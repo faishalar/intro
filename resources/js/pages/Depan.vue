@@ -3,10 +3,10 @@
         <v-row no-gutters justify="end" class="mt-7">
             <v-col align-self="center">
                 <v-container fluid class="ma-0 pa-0">
-                    <h1 style="text-align:right;">Hai ini adalah web perkenalan diri</h1>
+                    <h1 style="text-align:right;">Hai nama saya mohammad faishal amri</h1>
                 </v-container>
                 <v-container fluid class="ma-0 pa-0">
-                    <p style="text-align:right;">Mohammad Faishal Amri</p>
+                    <p style="text-align:right;">Saya lulusan sistem informasi.<br> Memiliki pengalaman 1 tahun dibidang IT Support dan Software Engineering.</p>
                 </v-container>
             </v-col>
             <v-col>
