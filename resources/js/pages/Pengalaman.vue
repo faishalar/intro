@@ -1,7 +1,7 @@
 <template>
     <v-container>
         <v-row justify="center" align="center">   
-            <div class="target" v-motion-slide-visible-bottom>
+            <div v-motion-pop-visible>
                 <h1 class="pa-2 ma-2">Pengalaman konten</h1>
             </div>
         </v-row>
